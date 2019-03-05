@@ -1,4 +1,4 @@
-const THE_ANSWER: u8 = 32;
+const THE_ANSWER: u8 = 42;
 
 pub fn fast() -> u8 {
     THE_ANSWER
